@@ -1,3 +1,7 @@
 #! /bin/bash
 echo "mahesh first love"
+<<<<<<< HEAD
 echo "mahesh reddy"
+=======
+echo "mahesh mava"
+>>>>>>> 21aa8964d516bbd98289d2469408caf730feef5e
